@@ -1,0 +1,10 @@
+1485294361710	geckodriver	INFO	Listening on 127.0.0.1:35215
+1485294362708	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BRoFM5QeTZAq
+1485294362710	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485294362713	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37935
+1485294363419	Marionette	INFO	Listening on port 37935
+[Child 3227] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3227] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
