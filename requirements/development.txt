@@ -1,1 +1,12 @@
 -r base.txt
+alabaster==0.7.9
+docutils==0.13.1
+Babel==2.3.4
+docutils==0.13.1
+imagesize==0.7.1
+imagesize==0.7.1
+MarkupSafe==0.23
+Pygments==2.2.0
+requests==2.13.0
+snowballstemmer==1.2.1
+Sphinx==1.5.2
